@@ -30,6 +30,8 @@ Output is a GLB with base-color, metallic, and roughness textures — ready for 
 
 ## Quick Start
 
+For a guided install with preflight checks and access verification, see [INSTALL_MAC.md](INSTALL_MAC.md) (`bash scripts/install_mac.sh`). Manual steps:
+
 ```bash
 # Clone this repo
 git clone https://github.com/shivampkumar/trellis-mac.git
